@@ -1,0 +1,11 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "flac music",
+            "path": "/home/node44_tmpdata3/netease/wav_lances/sq_slice",
+            "custom_metadata_module": "/home/node44_tmpdata3/netease/hkchen/stable-audio-tools/stable_audio_tools/configs/dataset_configs/custom_metadata/custom_md_example.py"
+        }
+    ],
+    "random_crop": true
+}
