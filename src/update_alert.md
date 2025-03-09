@@ -11,22 +11,22 @@ Describe your vision *literally* — from quick tags to cinematic scenes. DiffRh
 **Straightforward prompts**: 
 
 - `Pop Emotional Piano`
-    <audio controls src="../infer/example/zhi_yin_ni_tai_mei_pop_emotional.wav" title="Title"></audio>
+    <video controls src="../infer/example/AI情敌二重唱：人类与语音助手的嫉妒对决，声码器vs真声嘶吼(AI love rival duet human vs vocal assistant jealousy battle, vocoder vs raw screams).mp4" title="Title"></video>
 
 (Vocal glitches acknowledged → Can't resist sharing this gorgeous instrumental track!)
 
 - `Jazzy Nightclub Vibe`
-    <audio controls src="../infer/example/Jazzy Nightclub Vibe.wav" title="Title"></audio>
+    <audio controls src="../infer/example/Jazzy Nightclub Vibe.wav" title="demo1"></audio>
 
 etc.
 
 **Vivid storytelling**:
 
 - `Indie folk ballad, coming-of-age themes, acoustic guitar picking with harmonica interludes`
-    <audio controls src="../infer/example/独立民谣叙事曲，成长阵痛主题，木吉他分解和弦搭配口琴间奏(Indie folk ballad, coming-of-age themes, acoustic guitar picking with harmonica interludes).wav" title="Title"></audio>
+    <audio controls src="../infer/example/独立民谣叙事曲，成长阵痛主题，木吉他分解和弦搭配口琴间奏(Indie folk ballad, coming-of-age themes, acoustic guitar picking with harmonica interludes).wav" title="demo2"></audio>
 
 - `Buenos Aires tango-rap graffiti artist's rhymes over bandoneón syncopation`
-    <audio controls src="../infer/example/布宜诺斯艾利斯探戈说唱：街头涂鸦艺人的韵脚，班多钮风琴切分节奏(Buenos Aires tango-rap graffiti artist's rhymes over bandoneón syncopation).wav" title="Title"></audio>
+    <audio controls src="../infer/example/布宜诺斯艾利斯探戈说唱：街头涂鸦艺人的韵脚，班多钮风琴切分节奏(Buenos Aires tango-rap graffiti artist's rhymes over bandoneón syncopation).wav" title="demo3"></audio>
 
 **No reference audio needed**—type your imagination, and let Diffrhythm handle the rest.
 
@@ -35,17 +35,17 @@ etc.
 Skip the lyrics and go wild with *absurdly specific prompts*:
 
 - `Mountain cabin fireplace, acoustic guitar folk tunes wrapped in wool blankets`
-  <audio controls src="../infer/example/山林木屋壁炉，民谣木吉他旋律裹着羊毛毯温度(Mountain cabin fireplace, acoustic guitar folk tunes wrapped in wool blankets).wav" title="Title"></audio>
+  <audio controls src="../infer/example/山林木屋壁炉，民谣木吉他旋律裹着羊毛毯温度(Mountain cabin fireplace, acoustic guitar folk tunes wrapped in wool blankets).wav" title="demo4"></audio>
 - `Arctic research station, theremin auroras dancing with geomagnetic storms`
-  <audio controls src="../infer/example/北极科考站，特雷门琴极光与地磁暴共舞(Arctic research station, theremin auroras dancing with geomagnetic storms).wav" title="Title"></audio>
+  <audio controls src="../infer/example/北极科考站，特雷门琴极光与地磁暴共舞(Arctic research station, theremin auroras dancing with geomagnetic storms).wav" title="demo5"></audio>
 
  **or** merge them with wild prompts – it’s your playground：
 
 - `Zombie apocalypse country-rock gas station escape, banjo shreds & shotgun reload beats`
-  <audio controls src="../infer/example/丧尸末日乡村摇滚：加油站大逃亡，班卓琴速弹与霰弹枪上膛节奏(Zombie apocalypse country-rock gas station escape, banjo shreds & shotgun reload beats).wav" title="Title"></audio>
+  <audio controls src="../infer/example/丧尸末日乡村摇滚：加油站大逃亡，班卓琴速弹与霰弹枪上膛节奏(Zombie apocalypse country-rock gas station escape, banjo shreds & shotgun reload beats).wav" title="demo6"></audio>
 - `AI love rival duet: human vs vocal assistant jealousy battle, vocoder vs raw screams`
    (⚠️ Audio Safety Notice: This demo may redefine "loud".🎧 Lower volume → 😌 | Keep volume → 🤯 Your choice, brave listener!)
-  <audio controls src="../infer/example/AI情敌二重唱：人类与语音助手的嫉妒对决，声码器vs真声嘶吼(AI love rival duet human vs vocal assistant jealousy battle, vocoder vs raw screams).wav" title="Title"></audio>
+  <audio controls src="../infer/example/AI情敌二重唱：人类与语音助手的嫉妒对决，声码器vs真声嘶吼(AI love rival duet human vs vocal assistant jealousy battle, vocoder vs raw screams).wav" title="demo7"></audio>
 
 **Rules? We deleted them.** Throw your weirdest ideas at DiffRhythm and see what sticks.
 
