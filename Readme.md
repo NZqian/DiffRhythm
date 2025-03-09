@@ -40,6 +40,8 @@ DiffRhythm (Chinese: 谛韵, Dì Yùn) is the ***first*** open-sourced diffusion
 
     ✨ Special Thanks to community contributor @Jourdelune for implementing these features via #PR2!
 
+    **Full Release Notes**: See [src/update_alert.md](src/update_alert.md) for  details, demos, and roadmap.
+
     Break the rules. Make music that shouldn't exist.
 
 * **2025.3.7 🔥** **DiffRhythm** is now officially licensed under the **Apache 2.0 License**! 🎉 As the first diffusion-based music generation model, DiffRhythm opens up exciting new possibilities for AI-driven creativity in music. Whether you're a researcher, developer, or music enthusiast, we invite you to explore, innovate, and build upon this foundation. 
