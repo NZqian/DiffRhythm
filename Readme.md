@@ -30,7 +30,7 @@ DiffRhythm (Chinese: 谛韵, Dì Yùn) is the ***first*** open-sourced diffusion
     We're excited to announce two groundbreaking features now live in our open-source music model:  
 
     🎯 **Text-Based Style Prompts**  
-    Describe styles/scenes in words (e.g., `Jazzy Nightclub Vibe` or `Pop Emotional Piano`) — *no audio reference needed!*  
+    Describe styles/scenes in words (e.g., `Jazzy Nightclub Vibe`, `Pop Emotional Piano` or `Indie folk ballad, coming-of-age themes, acoustic guitar picking with harmonica interludes`) — *no audio reference needed!*  
 
     🎧 **Instrumental Mode**  
     Generate pure music with wild prompts like:  
